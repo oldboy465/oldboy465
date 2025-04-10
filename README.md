@@ -8,6 +8,6 @@
 - 🚀 Busco colaborar em projetos de ciência de dados, deep learning e automação de processos.
 - 📫 Como me encontrar: você pode entrar em contato comigo pelo GitHub ou e-mail.
 
-oldbou465 é um repositório especial porque o `README.md` aparece no seu perfil GitHub.
+oldboy465 é um repositório especial porque o `README.md` aparece no seu perfil GitHub.
 
 ⚡ Fun fact: Adoro discutir sobre estatística e inteligência artificial — poderia passar horas falando sobre isso!
